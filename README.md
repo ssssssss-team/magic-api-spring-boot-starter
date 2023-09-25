@@ -2,17 +2,18 @@
     <img src="https://images.gitee.com/uploads/images/2020/0516/214347_61254f60_297689.png" width="600">
 </p>
 <p align="center">
-    <a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"><img src="https://img.shields.io/badge/JDK-1.8+-green.svg" /></a>
-    <a href="https://search.maven.org/search?q=g:org.ssssssss%20AND%20a:magic-api">
-        <img alt="maven" src="https://img.shields.io/maven-central/v/org.ssssssss/magic-api.svg?style=flat-square">
-    </a>
-    <a target="_blank" href="https://www.ssssssss.org"><img src="https://img.shields.io/badge/Docs-latest-blue.svg"/></a>
-    <a target="_blank" href="https://github.com/ssssssss-team/magic-api/releases"><img src="https://img.shields.io/github/v/release/ssssssss-team/magic-api?logo=github"></a>
-    <a target="_blank" href='https://gitee.com/ssssssss-team/magic-api'><img src="https://gitee.com/ssssssss-team/magic-api/badge/star.svg?theme=white" /></a>
-    <a target="_blank" href='https://github.com/ssssssss-team/magic-api'><img src="https://img.shields.io/github/stars/ssssssss-team/magic-api.svg?style=social"/></a>
-    <a target="_blank" href="LICENSE"><img src="https://img.shields.io/:license-MIT-blue.svg"></a>
-    <a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=10faa4cf9743e0aa379a72f2ad12a9e576c81462742143c8f3391b52e8c3ed8d"><img src="https://img.shields.io/badge/QQ群-720832964-blue"></a>
+
+[![JDK 1.8+](https://img.shields.io/badge/JDK-1.8+-green.svg)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[![Maven](https://img.shields.io/maven-central/v/org.ssssssss/magic-api.svg?style=flat-square)](https://search.maven.org/search?q=g:org.ssssssss%20AND%20a:magic-api)
+[![Docs latest](https://img.shields.io/badge/Docs-latest-blue.svg)](https://www.ssssssss.org)
+[![GitHub Release](https://img.shields.io/github/v/release/ssssssss-team/magic-api?logo=github)](https://github.com/ssssssss-team/magic-api/releases)
+[![Gitee star](https://gitee.com/ssssssss-team/magic-api/badge/star.svg?theme=white)](https://gitee.com/ssssssss-team/magic-api)
+[![GitHub stars](https://img.shields.io/github/stars/ssssssss-team/magic-api.svg?style=social)](https://github.com/ssssssss-team/magic-api)
+[![License MIT](https://img.shields.io/:license-MIT-blue.svg)](LICENSE)
+[![QQ群 720832964](https://img.shields.io/badge/QQ群-720832964-blue)](https://shang.qq.com/wpa/qunwpa?idkey=10faa4cf9743e0aa379a72f2ad12a9e576c81462742143c8f3391b52e8c3ed8d)
+
 </p>
+
 
 [特性](#特性) | [快速开始](#快速开始) | [文档/演示](#文档演示) | [示例项目](#示例项目) | <a target="_blank" href="http://ssssssss.org/changelog.html">更新日志</a> | [项目截图](#项目截图) | [其它开源](#其它开源项目)
 
